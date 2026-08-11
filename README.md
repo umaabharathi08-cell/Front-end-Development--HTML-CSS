@@ -76,7 +76,6 @@ Perfumy/
 📚 Learning Outcome
      Through this project, I learned how to create a basic webpage using **HTML and CSS**, style different elements using CSS properties, create product boxes, and add simple hover effects.
 
-👩‍💻 Author
-Uma Bharathi M
+👩‍💻 Author-Uma Bharathi M
 
 ⭐ If you like this beginner web development project, feel free to star the repository!
